@@ -98,7 +98,8 @@ int main() {
 
 
 ## OUTPUT:
-OUTPUT:![Screenshot 2024-10-14 033944](https://github.com/user-attachments/assets/5163d05f-3483-452b-9e20-3f8e5128ff22)
+OUTPUT:![Screenshot 2024-10-14 033944](https://github.com/user-attachments/assets/5e4debac-3793-4d77-bb63-ccda3f07ca39)
+
 
 Simulating Caesar Cipher
 
